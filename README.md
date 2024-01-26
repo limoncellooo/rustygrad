@@ -1,3 +1,3 @@
 # rustygrad
 
-A tiny autograd engine inspired by Andrej Karpathy's micrograd & a desire to learn the rust programming language
+A tiny autograd engine based on Andrej Karpathy's micrograd written in Rust
